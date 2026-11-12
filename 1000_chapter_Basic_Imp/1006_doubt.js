@@ -54,3 +54,12 @@ switch (x) {
         console.log("d");
 
 }
+
+
+
+// for Doubt
+// let num = 1;
+// for (let j = 1; j < 5; j++) {
+//   num++;  
+// }
+// console.log(num);
